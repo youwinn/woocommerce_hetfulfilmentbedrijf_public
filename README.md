@@ -29,6 +29,15 @@ That's it — new orders and product changes matching your selected statuses are
 Use **Sync all orders now** / **Sync all products now** to push your existing catalog and order
 history on first setup.
 
+## Shipment tracking
+
+To let Het Fulfilment Bedrijf add tracking numbers to your orders and automatically move them to
+your configured "shipped" status, install a shipment tracking plugin. We recommend the free
+[Advanced Shipment Tracking for WooCommerce](https://wordpress.org/plugins/woo-advanced-shipment-tracking/)
+plugin — install and activate it like any other WordPress.org plugin, no extra configuration is
+required for it to work with Het Fulfilment Bedrijf sync. The paid official WooCommerce Shipment
+Tracking extension is also supported if you already use it.
+
 ## Staying up to date
 
 The plugin checks this repository for new releases and shows an **Update available** notice on
