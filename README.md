@@ -12,7 +12,7 @@ out automatically, and stock/tracking updates flow back in.
 
 ## Installation
 
-1. Click to download the latest version: [Download hetfulfilmentbedrijf-woocommerce.zip](https://github.com/youwinn/woocommerce_hetfulfilmentbedrijf_public/releases/latest/download/hetfulfilmentbedrijf-woocommerce.zip)
+1. Open the [latest release](https://github.com/youwinn/woocommerce_hetfulfilmentbedrijf_public/releases/latest) and download its versioned plugin ZIP.
 2. In your WordPress admin, go to **Plugins → Add New → Upload Plugin**.
 3. Choose the downloaded ZIP file and click **Install Now**.
 4. Click **Activate**.
