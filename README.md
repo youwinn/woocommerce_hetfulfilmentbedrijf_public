@@ -25,10 +25,10 @@ out automatically, and stock/tracking updates flow back in.
 4. Enable **Order Sync** and select which order statuses should trigger a sync, and what should be the next status when an order has been shipped.
 5. Save changes.
 6. Share Shop Base URL from the first field from the pluginpage with us. The Shop URL we use to identify your store and route your orders and products correctly.
+7. Once the setup is completed on our side; Use **Sync all orders now** / **Sync all products now** to push your existing catalog and order
+history on first setup
 
-That's it — new orders and product changes matching your selected statuses are sent automatically.
-Use **Sync all orders now** / **Sync all products now** to push your existing catalog and order
-history on first setup.
+And that's it. new orders and product changes matching your selected statuses are sent automatically.
 
 ## Shipment tracking
 
